@@ -10,6 +10,7 @@ module.exports = {
   buildOptions: {
     baseUrl: "/",
     clean: false,
+    sourcemap: true,
   },
   optimize: {
     bundle: false,
