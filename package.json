@@ -16,7 +16,7 @@
     "@typescript-eslint/parser": "5.47.1",
     "eslint": "8.28.0",
     "lint-staged": "13.1.0",
-    "prettier": "2.8.0",
+    "prettier": "2.8.3",
     "prettier-package-json": "2.8.0",
     "prettier-plugin-organize-imports": "3.2.1",
     "snowpack": "3.8.8",
