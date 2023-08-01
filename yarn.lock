@@ -548,10 +548,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/web@npm:0.0.99":
-  version: 0.0.99
-  resolution: "@types/web@npm:0.0.99"
-  checksum: f15782bdc24c5d142e94772869ac3dac9d0867d39896dff0731e9be9c56ebf02151076b378f0e702a3e1f7c1281d10d40f08f4ea1d884d0c560ff6ecae44990d
+"@types/web@npm:0.0.111":
+  version: 0.0.111
+  resolution: "@types/web@npm:0.0.111"
+  checksum: f6bfcfc67c6b059ff649af345e74f0e7f0ff7f766982a8b92adf6f93344deec96ad164e10f5291318805d509b930f220702613216c652d5d04aaaae64411fc4f
   languageName: node
   linkType: hard
 
@@ -5375,7 +5375,7 @@ __metadata:
   resolution: "yarn3-typescript-web-snowpack@workspace:."
   dependencies:
     "@types/eslint": 8
-    "@types/web": 0.0.99
+    "@types/web": 0.0.111
     "@typescript-eslint/eslint-plugin": 5.60.1
     "@typescript-eslint/parser": 6.0.0
     eslint: 8.44.0
